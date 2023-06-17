@@ -1,5 +1,5 @@
 <div id="" align="center">
-<!--   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/> -->
+  <img src="https://github.com/SonjayLake/SonjayLake/blob/main/assets/Portfolio%20Header.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Sonjay Lake</h1>
 <h3 align="center">Aspiring full stack developer from New York, NY</h3>
