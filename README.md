@@ -2,7 +2,7 @@
   <img src="https://github.com/SonjayLake/SonjayLake/blob/main/assets/Portfolio%20Header.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Sonjay Lake</h1>
-<h3 align="center">Aspiring full stack developer from New York, NY</h3>
+<h3 align="center">Aspiring full stack developer from San Francisco, CA</h3>
 <h4 align="center">Hi my name is Sonjay Lake a web developer and environmental engineer based out of SF My current skills lie in fullstack development  </h4>
 
 <hr>
