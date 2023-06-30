@@ -31,67 +31,6 @@
 
 <!-- PROJECTS -->
 
-<h2 align="center">Projects</h2>
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Loopstudios Landing Page</h3>
-				<div align="center">  
-					<a href='https://starlit-semolina-0d879e.netlify.app/' target="_blank">
-						<img src="https://github.com/SonjayLake/SonjayLake/blob/main/assets/landingpage.jpg?raw=true" alt="project 1" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-<!-- 						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>   -->
-						<a href="https://starlit-semolina-0d879e.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
-          <p>
-						A mobile-responsive landing page created using foundational web development tools
-					</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Faux Craft - Shopify Store</h3>
-				<div align="center" >  
-					<a href='https://fauxcraft.myshopify.com/' target="_blank">
-						<img src="https://github.com/SonjayLake/SonjayLake/blob/main/assets/shopify.jpg?raw=true" alt="project 2" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://fauxcraft.myshopify.com/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>Shopify Store development tools</strong></p>
-					<p>A shopify demo page. <strong>Password: Password123 </strong></p>
-				</div>
-        </tr>
-	    <tr>
-            <td width="50%">
-                <h3 align="center">Elegant Electronics - Wordpress Site</h3>
-                <div align="center" >  
-                    <a href='https://elegance82.wordpress.com/' target="_blank">
-                        <img src="https://github.com/SonjayLake/SonjayLake/blob/main/assets/elegant.jpg?raw=true" alt="project 3" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-						<a href="https://elegance82.wordpress.com/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-                    </p>
-                    <p><strong>Wordpress, HTML, CSS</strong></p>
-		    <p>Wordpress site created for an electronics manufacturing company.</p>
-                </div>
-            </td>
 <!--             <td width="50%">
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
