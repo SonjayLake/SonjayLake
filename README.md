@@ -51,12 +51,9 @@
 		    <p>Description goes here</p>
                 </div>	
             </td> -->
-        </tr>
-	</table>
-</div>
-<br />
-<br />
-<hr>
+
+
+
 
 
 <!-- SOCIALS -->
