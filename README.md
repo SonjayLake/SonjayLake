@@ -2,7 +2,7 @@
   <img src="https://github.com/SonjayLake/SonjayLake/blob/main/assets/Portfolio%20Header.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Sonjay</h1>
-<h3 align="center">Aspiring full stack developer from Oakland, CA</h3>
+<h3 align="center">Full stack developer from Oakland, CA</h3>
 <h4 align="center">Hello, I'm a web developer and environmental engineer based out of Oakland. My current skills lie in fullstack development</h4>
 
 <hr>
@@ -30,30 +30,47 @@
 <hr>
 
 <!-- PROJECTS -->
-
-<!--             <td width="50%">
-                <h3 align="center">Project 4</h3>
-                <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
+<h2 align="center">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Workout App</h3>
+				<div align="center">  
+					<a href='https://github.com/SonjayLake/Gym-App' target="_blank">
+						<img src="https://github.com/SonjayLake/Gym-App/blob/main/assets/Screen%20Shot%202023-07-03%20at%2012.55.46%20PM.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/SonjayLake/Gym-App" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</p>
+					<p><strong>MongoDB, Express, React, NodeJS</strong></p>
+          <p>
+WorkoutApp is a MERN stack application that enables users to effortlessly track and manage their workouts. With an intuitive user interface, users can easily add and delete specific workouts, allowing them to maintain a personalized exercise routine. This app simplifies the process of organizing and monitoring workout progress, helping users stay motivated and achieve their fitness goals.
+		</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Movies.io</h3>
+				<div align="center" >  
+					<a href='https://github.com/SonjayLake/Movie.io' target="_blank">
+						<img src="https://github.com/SonjayLake/Movie.io/blob/main/images/movie-demo.png" alt="movie-project" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/SonjayLake/Movie.io" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>	
-            </td> -->
-
-
-
+					</p>
+					 <p><strong>HTML, CSS, Bootstrap, React</strong></p>
+					<p>MovieSearch is a dynamic website built with Bootstrap and React, designed to provide users with a seamless movie searching experience. By leveraging API calls, users can easily explore and discover their favorite movies right from the website. The clean and intuitive user interface enhances the browsing experience, allowing users to quickly find information about movies, including ratings, cast, and release dates. MovieSearch is the go-to destination for movie enthusiasts seeking a convenient and enjoyable way to discover and stay up-to-date with the latest films.</p>
+				</div>
+        </tr>
+	</table>
+</div>
 
 
 <!-- SOCIALS -->
@@ -74,7 +91,7 @@
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">Stats</h2>
-<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
+<h6 style="color:red">These stats are only for public repos it does not show private stats on projects for previous employers and clients.</h6>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonjayLake&show_icons=true&locale=en&layout=compact" alt="sonjayLakeStats" /></p>
 
