@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Sonjay</h1>
 <h3 align="center">Fullstack developer from Oakland, CA</h3>
-<h4 align="center">Hello, I'm a web developer and environmental engineer based out of Oakland. My current skills lie in fullstack development</h4>
+<h4 align="center">Hello, I'm a web developer and environmental engineer based out of Oakland. I specialize in fullstack development</h4>
 
 <hr>
 
