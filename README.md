@@ -38,7 +38,7 @@
 				<h3 align="center">Workout App</h3>
 				<div align="center">  
 					<a href='https://github.com/SonjayLake/Gym-App' target="_blank">
-						<img src="https://github.com/SonjayLake/Gym-App/blob/main/assets/Screen%20Shot%202023-07-03%20at%2012.55.46%20PM.png" alt="project 1" height="100%" />
+						<img src="https://github.com/SonjayLake/Gym-App/blob/main/assets/workout.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
