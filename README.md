@@ -6,11 +6,11 @@
 <hr>
 	
 	
-	<!-- TECHS -->
+
 	
-	<h2 align="center">Skills</h2>
+<h2 align="center">Skills</h2>
 	
-	<div align="center">
+<div align="center">
 	                <br>
 	                    <div align="center" >  
 	                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
@@ -21,14 +21,14 @@
 	                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
                           <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" alt="mongodb" width="75" height="75"/> 
                               
-	                    </div>
-	</div>
+</div>
+</div>
 	
-	<br>
+<br>
 	<hr>
 	
-	<!-- PROJECTS -->
-	<h2 align="center">Projects</h2>
+
+<h2 align="center">Projects</h2>
 	<div align="center">
 		<table>
 			<tr>
@@ -71,28 +71,28 @@
 	</div>
 	
 	
-	<!-- SOCIALS -->
+
 	
-	<h2 align="center">Contact Me</h2>
+<h2 align="center">Contact Me</h2>
   	<p align="center">
   		&nbsp&nbsp&nbsp
   	<a href="https://www.linkedin.com/in/sonjaylake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 	</p>
 	
-	<hr>
+<hr>
 	
 	
-	<!-- STATS -->
-	<div align="center" margin="100px 0 0 0">
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
+
+  <h2 align="center">Stats</h2>
+  <h6 style="color:red">These stats are only for public repos it does not show private stats on projects for previous employers and clients.</h6>
 	
-	  <h2 align="center">Stats</h2>
-	  <h6 style="color:red">These stats are only for public repos it does not show private stats on projects for previous employers and clients.</h6>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonjayLake&show_icons=true&locale=en&layout=compact" alt="sonjayLakeStats" /></p>
 	
-	  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SonjayLake&show_icons=true&locale=en&layout=compact" alt="sonjayLakeStats" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SonjayLake&show_icons=true&locale=en" alt="sonjayLakeStats" /></p>
 	
-	  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SonjayLake&show_icons=true&locale=en" alt="sonjayLakeStats" /></p>
-	
-	  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SonjayLake&" alt="sonjayLakeStats" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SonjayLake&" alt="sonjayLakeStats" /></p>
 	</div>
 
 
