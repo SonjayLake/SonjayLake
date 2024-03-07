@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sonjay</h1>
-<h3 align="center">Fullstack developer from Oakland, CA</h3>
+<h3 align="center">Fullstack developer from New York, NY</h3>
 <h4 align="center">Hello, I'm a web developer and environmental engineer based out of Oakland. I specialize in fullstack development with Django, React, and TypeScript</h4>
 
 <hr>
