@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonjay</h1>
 <h3 align="center">Fullstack developer from New York, NY</h3>
-<h4 align="center">Hello, I'm a software engineer based out of New York. I specialize in fullstack development with React, and NodeJS</h4>
 <hr>
 <h2 align="center">Skills</h2>
 <div align="center">
