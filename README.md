@@ -40,7 +40,7 @@
          <td width="50%">
             <h3 align="center">Hotel Booking App</h3>
             <div align="center" >
-               <a href='https://github.com/SonjayLake/Hotel-Booking' target="_blank">
+               <a href='https://hotel-booking-2v1t.onrender.com/' target="_blank">
                <img src="https://github.com/SonjayLake/Hotel-Booking/blob/main/images/hotel_booking_cover.png" alt="hotel-booking-project" height="100%" />
                </a>
                <br>
